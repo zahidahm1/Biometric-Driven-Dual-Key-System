@@ -1,0 +1,9 @@
+{
+  "user": "user_A",
+  "msgID": "3667e727-7c91-4755-80bd-8f629ff588d1",
+  "server_secret_hex": "74530ad48fa1a07382cf3ea900e86b36fa57c8df9d9a6b564c1ec10f5d0dc40c",
+  "salt_hex": "5b524baae29ba736aa8758d573c4e330",
+  "identity_hash_hex": "5a3c58094cd0883237ba198633e787ac7ab6e13a0239ff9d8986ab3f794b3279",
+  "wrap_nonce_hex": "7d865d24f007c9254bed5d00",
+  "wrapped_session_key_hex": "952c784b5d1e863b2c8cac1ffdfd100e100b37eb476ac1c13bcccf06ae98721e3907ad4a2969da2be37651d7ff8ffc95"
+}
